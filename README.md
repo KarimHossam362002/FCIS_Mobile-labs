@@ -6,7 +6,7 @@ This repository contains lab exercises and hands-on projects completed as part o
 
 - Multiple Android Studio lab exercises.
 - Practical implementations of course topics.
-- Each lab focuses on specific concepts, from basic app development to context-aware and pervasive systems.
+- Each lab focuses on specific concepts, from basic app development to context-aware of mobile applications.
 
 ## 🛠️ Technologies Used
 - **Kotlin**
